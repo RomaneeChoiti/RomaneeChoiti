@@ -1,5 +1,4 @@
-### Hi there 👋
-
+https://img.shields.io/badge/<#EA4335>-<tmd1568@gmail.com>-<orange>
 <!--
 **RomaneeChoiti/RomaneeChoiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
