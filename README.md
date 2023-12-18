@@ -1,6 +1,9 @@
 
-
-
+준비 중...
+<!--
+저는 최승원입니다. 프론트엔드 개발자이자 예술가로 활동하고 있습니다. 
+코드를 사용하여 이미지, 비디오, 상호 작용형 경험을 창조하는 데 관심이 있습니다. 특히 반복되는 패턴과 시간에 따른 무작위 시각 표현에 매력을 느낍니다.
+-->
 
 <!--
 **RomaneeChoiti/RomaneeChoiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
